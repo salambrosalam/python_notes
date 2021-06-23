@@ -1,0 +1,1 @@
+[{"name": "Daniel", "score": 125, "ability": ["black_hole", "fire_blast", "tallon"]}, {"name": "John", "score": 500, "ability": ["crime", "fury", "insane"]}]
